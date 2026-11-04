@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello fellow internet user 👋
+My name is Erik and I'm a student at TUM! 
+
+
+#### Interests & Skills
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 <!--
 **fixeditlocally/fixeditlocally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
